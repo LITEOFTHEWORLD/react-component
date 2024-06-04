@@ -1,0 +1,22 @@
+.notification {
+  background-color: #f6f6f6;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px auto;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+.policy {
+  background-color: #f6f6f6;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px auto;
+  padding: 16px 24px 16px 24px;
+  gap: 10px;
+  border-radius: 4px 0px 0px 0px;
+  opacity: 0px;
+  text-decoration: none;
+  color: black;
+}
